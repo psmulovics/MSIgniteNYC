@@ -10,6 +10,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 
 - [Leveling up Agents](presentations/Leveling_up_Agents.pdf) - What is the true enterprise value of building custom agents? (Kristen Holmes)
 - [How to create Moonshot solutions with AI](presentations/Moonshot_solutions.pdf) - How to train Copilot to be your co-thinker? (Peter Ward)
+- [Intro to Uno Platform](presentations/Uno_AI.pdf) - Intro to Uno Platform, now with AI (Steve Bilogan)
 
 <!-- 
 When adding presentations, use this format:
