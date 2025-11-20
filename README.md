@@ -9,6 +9,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 ### Available Presentations
 
 - [Leveling up Agents](presentations/Leveling_up_Agents.pdf) - What is the true enterprise value of building custom agents? (Kristen Holmes)
+- [How to create Moonshot solutions with AI](presentations/Moonshot_solutions.pdf) - How to train Copilot to be your co-thinker? (Peter Ward)
 
 <!-- 
 When adding presentations, use this format:
