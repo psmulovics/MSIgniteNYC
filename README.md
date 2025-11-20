@@ -8,7 +8,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 
 ### Available Presentations
 
-*No presentations have been uploaded yet. Check back soon!*
+- [Leveling up Agents](presentations/Leveling_up_Agents.pdf) - What is the true enterprise value of building custom agents? (Kristen Holmes)
 
 <!-- 
 When adding presentations, use this format:
@@ -23,7 +23,7 @@ Example:
 
 To add a new presentation to this repository:
 
-1. Upload your .pptx file to this repository
+1. Upload your .pptx or .pdf file to this repository
 2. Update this README.md file with a link to your presentation
 3. Include a brief description to help attendees find relevant content
 
