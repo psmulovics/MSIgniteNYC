@@ -13,6 +13,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 - [Intro to Uno Platform](presentations/Uno_AI.pdf) - Intro to Uno Platform, now with AI (Steve Bilogan)
 - [Building Agents in AI Foundry](presentations/AI_foundry.pdf) - Every application achieves more with AI and agents (Supreet Kaur)
 - [RAG Hero](presentations/RAG-Hero.pdf) - Creating Searchable Vector Databases (Jason Beres)
+- [Elevating Construction: Optimization with Digital Twin and AI](presentations/Elevating%20Construction.pptx) - Model physical spaces and objects using Digital Twin and AI Foundry (Aaron J. Drake)
 
 <!-- 
 When adding presentations, use this format:
