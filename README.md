@@ -15,7 +15,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 - [RAG Hero](presentations/RAG-Hero.pdf) - Creating Searchable Vector Databases (Jason Beres)
 - [Elevating Construction: Optimization with Digital Twin and AI](presentations/Elevating%20Construction.pptx) - Model physical spaces and objects using Digital Twin and AI Foundry (Aaron J. Drake)
 - [Agentic AI - Secrets to Success and Paths to Failure](presentations/Agentic%20AI%20Secrets%20to%20Success%20and%20Paths%20to%20Failure.pdf) - Success requires new deployment approaches informed by prior lessons (Dr. David Goad)
-
+- [Transforming Data Analytics with Visio and PowerBI](https://taskmap.com/download-presentation/) - If you had a question, the answer is Visio (Scott Helmers) 
 <!-- 
 When adding presentations, use this format:
 - [Presentation Title](path/to/presentation.pptx) - Brief description (Optional: Speaker name)
