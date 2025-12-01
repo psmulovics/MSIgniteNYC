@@ -18,6 +18,7 @@ Below you'll find links to all the presentation decks from MSIgnite NYC 2025. Cl
 - [Transforming Data Analytics with Visio and PowerBI](https://taskmap.com/download-presentation/) - If you had a question, the answer is Visio (Scott Helmers) 
 - [Accelerating Web Application Development with AI-Powered Tools](presentations/AI_Web_Development_Presentation.pdf) - Enhancing web app development efficiency through intelligent automation (Konstantin Dinev)
 - [The Actor Model & Agentic AI Orchestra](presentations/ActorModel_AgentOrchestration.pdf) - An exploration of Actors, Akka.NET, and Agentic AI orchestration patterns (Prabh Singh) 
+- [Generative Pages in Power Apps](presentations/IgniteNYC_GenPages_AricLevin.pdf) - An AI-driven experience designed to simplify, accelerate and improve your app design process in model-driven apps (Aric Levin)
 
 <!-- 
 When adding presentations, use this format:
